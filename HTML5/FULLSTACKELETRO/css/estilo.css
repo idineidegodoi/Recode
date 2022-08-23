@@ -1,0 +1,16 @@
+p, h2, h4{
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    background-color: red;
+    width: 100%;
+    color: white;
+}
+#menu img{
+    width: 50px;
+}
+#menu a:link{
+    color: #fff;
+    text-decoration:none;
+}
